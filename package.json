@@ -1,0 +1,25 @@
+{
+  "name": "real-os",
+  "version": "0.1.0",
+  "description": "Unix commands on windows",
+  "main": "app/bin/ls.js",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "conf": "^0.12.0",
+    "fs-extra": "^2.0.0",
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
+  },
+  "scripts": {
+    "test": "node node_modules/standard/index.js app/bin/*.js"
+  },
+  "bin": {
+    "cat": "./app/bin/cat.js",
+    "mkdir": "./app/bin/mkdir.js",
+    "touch": "./app/bin/touch.js",
+    "ls": "./app/bin/ls.js"
+  }
+}
