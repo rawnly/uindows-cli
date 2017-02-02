@@ -63,7 +63,7 @@ or...
   More info [here][ls]
 
 ---
-<h3 align="center"> Coded with love by [@Rawnly](http://rawnly.com) </h3>
+<h3 align="center"> Coded with love by <a href="http://rawnly.com">@Rawnly</a> </h3>
 
 [cat]: https://wikipedia.org/wiki/Cat_(Unix)
 [mkdir]: https://wikipedia.org/wiki/Mkdir
