@@ -9,13 +9,13 @@
 ## Install
 
 ```bash
-  $ npm install uindos-cli --global
+  $ npm install uindows-cli --global
 ```
 
 or...
 
 ```bash
-  $ yarn global add uindos-cli
+  $ yarn global add uindows-cli
 ```
 
 
