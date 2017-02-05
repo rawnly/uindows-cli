@@ -1,5 +1,5 @@
 {
-  "name": "real-os",
+  "name": "uindows-cli",
   "version": "0.1.0",
   "description": "Unix commands on windows",
   "main": "app/bin/ls.js",
